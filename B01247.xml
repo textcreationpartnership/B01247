@@ -1,0 +1,433 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A ballad of Anne Askew, intituled: I am a woman poore and blind.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01247</idno>
+            <idno type="OCLC"> 24238665</idno>
+            <idno type="STC">STC 853.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[54]</idno>
+            <idno type="STC">ESTC S2497</idno>
+            <idno type="EEBO-CITATION">99893118</idno>
+            <idno type="PROQUEST">ocm99893118</idno>
+            <idno type="VID">182313</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01247)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182313)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[57])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A ballad of Anne Askew, intituled: I am a woman poore and blind.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>for T.P.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1624?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by STC.</note>
+                  <note>Verse: "I am a woman poore and blinde ..."</note>
+                  <note>Ent. to the ballad ptnrs. 14 de. 1624--STC.</note>
+                  <note>Imperfect: mutilated, affecting imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Askew, Anne, 1521-1546 --  Poetry --  Early works to 1800.</term>
+               <term>Martyrs --  England --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182313:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <head>
+               <hi>A Ballad of</hi> Anne Askew, <hi>Intituled:</hi> I am a Woman poore and Blind.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <hi>I</hi> Am a Woman poore and blinde</l>
+               <l>and little knowledge remaines in me,</l>
+               <l>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng haue I ſought and faine would I finde,</l>
+               <l>what hearbs in my garden were beſt to be.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> garden <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne which is vnknowne,</l>
+               <l>that God at his goodnes gaue vnto me:</l>
+               <l>I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> my owne body wherein I would haue ſowne</l>
+               <l>the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>de of Chriſts true veritie.</l>
+            </lg>
+            <lg>
+               <l>My <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>t whithin me is vexed ſore,</l>
+               <l>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſtri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th againſt the ſame:</l>
+               <l>My ſorrows no increaſe daily more and more,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſuffereth moſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itter paine:</l>
+            </lg>
+            <lg>
+               <l>I wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> being thus of ſtrife,</l>
+               <l>would <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aint haue his a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>peace and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> knowing in my mortall life,</l>
+               <l>what <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I might <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to pleaſe God beſt,</l>
+            </lg>
+            <lg>
+               <l>With <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> intent and one accord.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Ga<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er that I did know:</l>
+               <l>I went <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> him for the loue of the Lord,</l>
+               <l>true ſéedes in my garden for to ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>Then this proud Gardner ſeing me ſo blinde,</l>
+               <l>he thought <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n me to worke his will:</l>
+               <l>And flattered me with words ſo kind,</l>
+               <l>to haue me continue in blindneſſe ſtill,</l>
+            </lg>
+            <lg>
+               <l>He fed me then with lyes and morke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>for veniall ſinnes he bad me goe,</l>
+               <l>To giue my money <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſtones and ſtorkes,</l>
+               <l>which was ſtarke lyes and nothing ſo.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>th <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>king meate then was I fe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>pe me from my ſalvation<g ref="char:punc">▪</g>
+               </l>
+               <l>I ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>-ta<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s of Maſſe, and Buls of lead,</l>
+               <l>not one word ſpoken of Chriſts paſſion.</l>
+            </lg>
+            <lg>
+               <l>In me was <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>wne all kinde of fained ſeedes,</l>
+               <l>with Popiſh ceremonies many a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of <hi>Requiem</hi> with other Ingling deeds,</l>
+               <l>till Gods ſpirit out of my gard<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n was gone.</l>
+            </lg>
+            <lg>
+               <l>Then was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> commanded full ſtraigtly.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> I would be ſure:</l>
+               <l>To <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, or ſome Chau<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity,</l>
+               <l>in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e pr<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> for whilſt the world endure.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, ſaith he, it is lies,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> I muſt abhorre:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> any manner of wiſe,</l>
+               <l>but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>hers haue <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> before,</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>¶ My truſt I did put then in y<hi rend="sup">e</hi> Diuiles workes,</l>
+               <l>thinking them ſufficient, my ſoule to ſaue.</l>
+               <l>Being worſe then either <hi>Iewes</hi> or <hi>Turkes,</hi>
+               </l>
+               <l>thus Chriſt of his merrits I did derpaue.</l>
+            </lg>
+            <lg>
+               <l>¶ I might liken my ſelfe with a w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll heart,</l>
+               <l>vnto the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umbe man in Luke the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>luen:</l>
+               <l>From whome Chriſt cauſed the Diuell to de<g ref="char:EOLhyphen"/>part</l>
+               <l>but ſhortly after he tooke the other ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue<g ref="char:cmbAbbrStroke">̄</g>.</l>
+            </lg>
+            <lg>
+               <l>¶ My time thus good Lord ſo wickedly ſpent,</l>
+               <l>alas ſhall I die the ſooner therefore:</l>
+               <l>No Lord, I finde written in thy Teſtament,</l>
+               <l>thut thou haſt mercy enough in ſtore.</l>
+            </lg>
+            <lg>
+               <l>¶ For ſuch ſinners as the Scripture ſaith,</l>
+               <l>that will gladly repent and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>llow thy word:</l>
+               <l>Which I will no deny whilſt I haue breath,</l>
+               <l>for Priſon, fire, Faggot, nor <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſword.</l>
+            </lg>
+            <lg>
+               <l>¶ Strength me good Lord in thy truth to ſtand,</l>
+               <l>for the bloudy Butchers haue me at their wil</l>
+               <l>With ther ſlaughter kniues ready drawn in ther hand</l>
+               <l>my ſimple ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kas to deuour and kill.</l>
+            </lg>
+            <lg>
+               <l>¶ O Lord forgiue me mine offence,</l>
+               <l>for I haue offended thee very ſore:</l>
+               <l>Take therefore my ſinfull body from hence,</l>
+               <l>and then ſhal I vild wretch offend thee no more</l>
+            </lg>
+            <lg>
+               <l>¶ I would wiſh all chriſtians &amp; faithfull friends</l>
+               <l>to keepe them from this Gardners hands,</l>
+               <l>For he will bring them ſoone vnto their ends,</l>
+               <l>with cruell torments of fierce firebrands.</l>
+            </lg>
+            <lg>
+               <l>¶ I dare not preſume for him to pray,</l>
+               <l>becauſe the truth of him was well knowne:</l>
+               <l>And ſince that time he hath gone aſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ray,</l>
+               <l>and much peſtilent ſeed abroad he hath ſowne</l>
+            </lg>
+            <lg>
+               <l>¶ Becauſe that now I haue no ſpace,</l>
+               <l>the cauſe of my death truely to ſhow:</l>
+               <l>I truſt hereafter by Gods holy grace,</l>
+               <l>that all faithfull men ſhall it plainely know,</l>
+            </lg>
+            <lg>
+               <l>To thee O Lord I bequeath my ſpirit,</l>
+               <l>which art the workemaſter of the ſame:</l>
+               <l>It is thine, Lord therefore take it of right,</l>
+               <l>my carkas on earth I leaue, from whence it came</l>
+            </lg>
+            <lg>
+               <l>¶ Although to aſhes it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> now burned,</l>
+               <l>I know thou canſt raiſe it agains,</l>
+               <l>In the ſame likeneſſe that thou it formed,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Heauen with the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> euermore to remaine.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
